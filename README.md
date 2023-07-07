@@ -5,12 +5,13 @@
 
 ```csharp
 string[] majestry = new string[] { 
-  "Code : "TypeScript, JavaScript, Python, Go, C#, C++, Assembly", 
+  "Code : "TypeScript, JavaScript, Python, Go, C#, C++, C, Assembly, Rust", 
   "Tools : VS, VSCode, Docker, x64dbg, Github, VMWare, CheatEngine", 
   "Architecture : Win10, Linux, MacOS", 
-  "Interest : Software Development, IT Security, DevOps, Reverse Engineer, Offensive tools development, Web Application Development",
+  "Interest : Software Development, IT Security, DevOps, Reverse Engineer, Offensive tools development, Web Application Development, Malware Development",
   "Hobbies : Play Chess, Watch movies or anime on somtimes",
-  "Quote": "If you only do what you can do, you will never be more than you are now! - Kung Fu Panda" 
+  "Quote": "If you only do what you can do, you will never be more than you are now! - Kung Fu Panda",
+  "AKA": "Skyring, Lovely, Foreverlove, Saythatyouloveme, Pleaseloveme" // Well I know that I have alot of AKA.
 };
 ```
 
