@@ -12,6 +12,7 @@ string[] majestry = new string[] {
   "Hobbies : Play Chess, Watch movies or anime on somtimes",
   "Quote": "If you only do what you can do, you will never be more than you are now! - Kung Fu Panda",
   "AKA": "Skyring, Lovely, Foreverlove, Saythatyouloveme, Pleaseloveme" // Well I know that I have alot of AKA.
+  "Crush": "Noey" //Well Ik that's impossible to get her but ye.
 };
 ```
 
