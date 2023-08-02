@@ -6,7 +6,7 @@
 ```csharp
 string[] majestry = new string[] { 
   "Code : "TypeScript, JavaScript, Python, Go, C#, C++, C, Assembly, Rust", 
-  "Tools : VS, VSCode, Docker, x64dbg, Github, VMWare, CheatEngine", 
+  "Tools : "VS, VSCode, Docker, x64dbg, Github, VMWare, CheatEngine", 
   "Architecture : Win10, Linux, MacOS", 
   "Interest : Software Development, IT Security, DevOps, Reverse Engineer, Offensive tools development, Web Application Development, Malware Development",
   "Hobbies : Play Chess, Watch movies or anime on somtimes",
