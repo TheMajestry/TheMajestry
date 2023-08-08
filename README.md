@@ -3,17 +3,38 @@
 
 ### <img src="https://media3.giphy.com/media/1NYkJ0wTvncdXV5dN5/source.gif" width="50"> A little more about me...  
 
-```csharp
-string[] majestry = new string[] { 
-  "Code : "TypeScript, JavaScript, Python, Go, C#, C++, C, Assembly, Rust", 
-  "Tools : "VS, VSCode, Docker, x64dbg, Github, VMWare, CheatEngine", 
-  "Architecture : Win10, Linux, MacOS", 
-  "Interest : Software Development, IT Security, DevOps, Reverse Engineer, Offensive tools development, Web Application Development, Malware Development",
-  "Hobbies : Play Chess, Watch movies or anime on somtimes",
-  "Quote": "If you only do what you can do, you will never be more than you are now! - Kung Fu Panda",
-  "AKA": "Skyring, Lovely, Foreverlove, Saythatyouloveme, Pleaseloveme" // Well I know that I have alot of AKA.
-  "Crush": "Noey" //Well Ik that's impossible to get her but ye.
+```typescript
+interface MajestryProfile {
+  code: string[];
+  tools: string[];
+  architecture: string[];
+  interest: string[];
+  hobbies: string[];
+  quote: string;
+  aka: string[];
+  crush: string;
+}
+
+const majestry: MajestryProfile = {
+  code: ["TypeScript", "JavaScript", "Python", "Go", "C#", "C++", "C", "Assembly", "Rust","Lua"],
+  tools: ["VS", "VSCode", "Docker", "x64dbg", "Github", "VMWare", "CheatEngine","ChatGPT"],
+  architecture: ["WinXp","Win7","Win8","Win10","Win11","Linux", "MacOS"],
+  interest: [
+    "Software Development",
+    "IT Security",
+    "DevOps",
+    "Reverse Engineering",
+    "Offensive Tools Development",
+    "Web Application Development",
+    "Malware Development",
+    "Aircraft hijackings", //Just kidding lol
+  ],
+  hobbies: ["Play Chess", "Watch movies or anime sometimes","DDoS Game server","WebScraping"],
+  quote: "Ad Astra Sapientiam - Someone told me @ 2015",
+  aka: ["Skyring", "Lovely", "Foreverlove", "Saythatyouloveme", "Pleaseloveme"], //Ik that I have a lot of aka.
+  crush: "Noey" //Ik that's impossible to get her to be my girlfriend but I still love her : )
 };
+
 ```
 
 ### <img src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/200.gif" width="50"> Projects...
