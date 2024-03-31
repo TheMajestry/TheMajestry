@@ -32,7 +32,7 @@ const majestry: MajestryProfile = {
   hobbies: ["Play Chess", "Watch movies or anime sometimes","DDoS Game server","WebScraping"],
   quote: "Ad Astra Sapientiam - Someone told me @ 2015",
   aka: ["Skyring", "Lovely", "Foreverlove", "Saythatyouloveme", "Pleaseloveme"], //Ik that I have a lot of aka.
-  crush: "Noey" //Ik that's impossible to get her to be my girlfriend but I still love her : )
+  crush: "Tang" // I fell for her cute smile :) <3
 };
 
 ```
